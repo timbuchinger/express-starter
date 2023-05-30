@@ -1,1 +1,3 @@
-# express-starter
+# NodeJS Express Starter
+
+Express + TypeScript + Mustache.
